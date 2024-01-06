@@ -15,7 +15,7 @@
 
 
 <h1 align="center">
-   completing the project with high Speed and Quality
+   Completing the project with high Speed and Quality
 </h1>
 
 
