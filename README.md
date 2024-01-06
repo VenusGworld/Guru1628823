@@ -15,17 +15,17 @@
 
 
 <h1 align="center">
-    Senior Full Stack  Developer
+   completing the project with high Speed and Quality
 </h1>
 
 
 ## Skills
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, Django, Express, Nestjs, Ruby on Rails
+- 🔭 Backend : NodeJs, Django, Express, Nest.js, Ruby on Rails
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#,
-- 📫 Interesting : AI, BigData, Machine Learning, IoT
+- 📫 Interesting : AI, BigData, Machine Learning, IoT, BlockChain
 
 ## Hightlights
 
